@@ -1,0 +1,5 @@
+__pycache__/
+.ipynb_checkpoints/
+*.csv
+# Optional: if your model file is >100MB, don't push it
+# sales_model.pkl
